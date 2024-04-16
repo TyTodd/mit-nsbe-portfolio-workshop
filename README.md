@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- Create a non-MIT github account
+- Create a non-MIT [github](https://github.com/) account
 - Download VSCode [here](https://code.visualstudio.com/download)
 - Download git [here](https://git-scm.com/downloads)
 - Pick a **static** html template website from any of these options \*must be a **STATIC HTML** website\*
@@ -63,7 +63,7 @@ You can download the installer from the [pandoc website](https://pandoc.org/inst
 
 #### Mac
 
-Fist make sure you have homebrew installed. If you don't you can install it by running the following command in your terminal:
+First make sure you have homebrew installed. If you don't you can install it by running the following command in your terminal:
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
