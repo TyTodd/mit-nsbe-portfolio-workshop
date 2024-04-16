@@ -19,12 +19,22 @@ Tags: Skeleton of your website
 - \<h#> heading
 - \<a> link
 
+The nested and ordered structure of HTML is directly related to how it renders on the website
+Here is some example HTML code:
+
+![alt text](html.png)
+
+And here is what it looks like rendered
+
+![alt text](layout.png)
+
 ## Style up with CSS
 
 You can map elements to classes and ids to style them up.
 Look for a .css file in your project folder.
+Here is an example of what css looks like. .blueDiv is a class and #exampleId is an ID
 
-## Style up with CSS
+![alt text](css.png)
 
 ## Working with Markdown
 
@@ -115,3 +125,20 @@ This loads the file content onto the page and will display it inside of a div wh
 
 Create a git repo using the following tutorial and push your code to it.
 [https://pages.github.com/](https://pages.github.com/)
+
+### Pushing code to github
+
+After creating your repo using the tutorial above you can push your code to github by running the following commands in your terminal:
+
+First you must get the remote url of your repo
+![alt text](github.png)
+Copy that url then run the following commands in your terminal:
+
+```bash
+git init
+git remote add origin URL
+git branch -M main
+git add .
+git commit -m "first commit"
+git push -u origin main
+```
