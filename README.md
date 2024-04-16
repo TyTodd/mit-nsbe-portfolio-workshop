@@ -4,7 +4,12 @@
 
 - Create a non-MIT github account
 - Download VSCode [here](https://code.visualstudio.com/download)
--
+- Download git [here](https://git-scm.com/downloads)
+- Pick a **static** html template website from any of these options \*must be a **STATIC HTML** website\*
+  - [HTML5 UP](https://html5up.net/)
+  - [HTML Rev](https://htmlrev.com/free-html-templates.html)
+  - [Start Bootstrap](https://startbootstrap.com/)
+  - Any other website you find online
 
 ## Working with HTML
 
